@@ -1,0 +1,19 @@
+{
+  "name": "bcrypt_x_readline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "i": "^0.3.7",
+    "npm": "^11.10.0",
+    "readline-sync": "^1.4.10"
+  }
+}
